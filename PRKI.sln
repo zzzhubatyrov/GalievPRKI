@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRKI", "PRKI.csproj", "{AA71905B-779A-42D2-B5E9-9581F2B9220A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA71905B-779A-42D2-B5E9-9581F2B9220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA71905B-779A-42D2-B5E9-9581F2B9220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA71905B-779A-42D2-B5E9-9581F2B9220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA71905B-779A-42D2-B5E9-9581F2B9220A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68AAF2C3-36EC-4A47-AD0B-4C11F14768C5}
+	EndGlobalSection
+EndGlobal

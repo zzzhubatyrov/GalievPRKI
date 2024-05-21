@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\nmk\PRKI\bin\Debug\PRKI.exe.config
+C:\Users\user\Desktop\nmk\PRKI\bin\Debug\PRKI.exe
+C:\Users\user\Desktop\nmk\PRKI\bin\Debug\PRKI.pdb
+C:\Users\user\Desktop\nmk\PRKI\obj\Debug\PRKI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\nmk\PRKI\obj\Debug\PRKI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nmk\PRKI\obj\Debug\PRKI.exe
+C:\Users\user\Desktop\nmk\PRKI\obj\Debug\PRKI.pdb
